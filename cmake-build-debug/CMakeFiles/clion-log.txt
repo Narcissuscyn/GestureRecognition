@@ -1,0 +1,5 @@
+/home/narcissus/software/package/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/narcissus/file/recent_job/ges_rec/mycode
+----------- trying to find Jsoncpp-------------
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/narcissus/file/recent_job/ges_rec/mycode/cmake-build-debug

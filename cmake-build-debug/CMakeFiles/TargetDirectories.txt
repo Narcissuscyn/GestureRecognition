@@ -1,0 +1,3 @@
+/home/narcissus/file/recent_job/ges_rec/mycode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/narcissus/file/recent_job/ges_rec/mycode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/narcissus/file/recent_job/ges_rec/mycode/cmake-build-debug/CMakeFiles/gesture_recognition.dir

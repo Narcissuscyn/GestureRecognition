@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/narcissus/file/recent_job/ges_rec/mycode/diff_clic.cpp
+gesture.h
+/home/narcissus/file/recent_job/ges_rec/mycode/gesture.h
+utils.h
+/home/narcissus/file/recent_job/ges_rec/mycode/utils.h
+iostream
+-
+string
+-
+opencv2/opencv.hpp
+/home/narcissus/file/recent_job/ges_rec/mycode/opencv2/opencv.hpp
+opencv2/highgui/highgui.hpp
+/home/narcissus/file/recent_job/ges_rec/mycode/opencv2/highgui/highgui.hpp
+
+/home/narcissus/file/recent_job/ges_rec/mycode/gesture.h
+iostream
+-
+fstream
+-
+string
+-
+opencv2/opencv.hpp
+/home/narcissus/file/recent_job/ges_rec/mycode/opencv2/opencv.hpp
+opencv2/highgui/highgui.hpp
+/home/narcissus/file/recent_job/ges_rec/mycode/opencv2/highgui/highgui.hpp
+jsoncpp/json.h
+-
+
+/home/narcissus/file/recent_job/ges_rec/mycode/utils.h
+iostream
+-
+string
+-
+dirent.h
+-
+
